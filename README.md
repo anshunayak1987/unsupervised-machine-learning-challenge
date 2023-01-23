@@ -39,6 +39,9 @@ Part 1: Prepare the Data
     3.Create a scatter plot of the t-SNE output. Are there distinct clusters?
     
     
+    
+  ![image](https://user-images.githubusercontent.com/111711194/214169771-0fbb491d-cbac-43e6-ad1f-1d58b52dbcb5.png)
+
   Part 3: Perform a Cluster Analysis with K-means
    
     Create an elbow plot to identify the best number of clusters. Make sure to do the following:
@@ -47,6 +50,9 @@ Part 1: Prepare the Data
     
     b: If possible, determine where the elbow of the plot is, and at which value of k it appears.
     
+    
+   ![image](https://user-images.githubusercontent.com/111711194/214170413-21706089-e94b-4c0d-bd30-ee919a78cf14.png)
+
     
   Part 4: Make a Recommendation
     
