@@ -34,7 +34,7 @@ Part 1: Prepare the Data
   
     1.Perform dimensionality reduction with PCA. How did the number of the features change? 
     
-    2.Further reduce the dataset dimensions with t-SNE and visually inspect the results. To do this, run t-SNE on the principal components, which is the output of the        PCA transformation.
+    2.Further reduce the dataset dimensions with t-SNE and visually inspect the results. To do this, run t-SNE on the principal components, which is the output of the       PCA transformation.
     
     3.Create a scatter plot of the t-SNE output. Are there distinct clusters?
     
