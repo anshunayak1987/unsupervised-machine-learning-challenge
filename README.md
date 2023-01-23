@@ -39,7 +39,7 @@ Part 1: Prepare the Data
     3.Create a scatter plot of the t-SNE output. Are there distinct clusters?
     
     
-   Part 3: Perform a Cluster Analysis with K-means
+  Part 3: Perform a Cluster Analysis with K-means
    
     Create an elbow plot to identify the best number of clusters. Make sure to do the following:
     
@@ -48,17 +48,17 @@ Part 1: Prepare the Data
     b: If possible, determine where the elbow of the plot is, and at which value of k it appears.
     
     
-    Part 4: Make a Recommendation
+  Part 4: Make a Recommendation
     
       Based on your findings, write up a brief (one or two sentences) recommendation for your supervisor in your Jupyter Notebook. Can the patients be clustered? If         so, into how many clusters?
       
       
-      Rubric
+  Rubric
     
     Module 20 Challenge
     
       
-   References
+  References
    
    Reduced dataset from Orinda Longitudinal Study of Myopia conducted by the US National Eye Institute
    
